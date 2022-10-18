@@ -1,7 +1,7 @@
 /* Ejercicio 9
     Escribe un programa que calcule el volumen de un cono según la fórmula V = (1/3) * π * r^2 * h
 */
-public class Ejercicio9 {
+public class Ejercicio09 {
   public static void main (String[] args) {
     double r, h;
 	

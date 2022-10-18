@@ -3,7 +3,7 @@
 	La cantidad de pesetas que se quiere convertir debe ser introducida por teclado.
    1€ = 166.386 pesetas
 */
-public class Ejercicio3 {
+public class Ejercicio03 {
   public static void main (String[] args) {
     double pesetas;
 	

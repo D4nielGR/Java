@@ -1,7 +1,7 @@
 /* Ejercicio 7
     Escribe un programa que calcule el total de una factura a partir de la base imponible.
 */
-public class Ejercicio7 {
+public class Ejercicio07 {
   public static void main (String[] args) {
     double baseImponible;
 	

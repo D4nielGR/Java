@@ -1,7 +1,7 @@
 /* Ejercicio 5
     Escribe un programa que calcule el área de un rectángulo.
 */
-public class Ejercicio5 {
+public class Ejercicio05 {
   public static void main (String[] args) {
     double b, h;
 	

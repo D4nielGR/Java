@@ -1,7 +1,7 @@
 /* Ejercicio 4
     Escribe un programa que sume, reste, multiplique y divida dos números introducidos por teclado.
 */
-public class Ejercicio4 {
+public class Ejercicio04 {
   public static void main (String[] args) {
     double x, y;
 	
