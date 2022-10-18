@@ -12,6 +12,6 @@ public class Ejercicio10 {
     
     System.out.println(mb + " Mb son: ");
     System.out.println(kb_dec + " Kb decimales");
-    System.out.println(kb_bin + " Kb binarios")
+    System.out.println(kb_bin + " Kb binarios");
   }
 }
