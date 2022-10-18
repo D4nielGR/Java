@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Tema04Ejercicios {
+public class Tema04Ej {
   public static void main (String[] args) {
     Scanner s = new Scanner(System.in);
 	  System.out.print("Elije un ejercicio(1-22): ");
